@@ -12,12 +12,12 @@ GET /students/count
 GET /students/:id  
 GET /students/branch/:branchName  
 
-## Sample URL
-https://node-assignment-1-f80h.onrender.com/students
+## Postman URL
+https://documenter.getpostman.com/view/50839299/2sBXcGCyrx
 
 ## Run Locally
 npm install  
 npm start
 
 ## Deployed Link
-(https://node-assignment-1-f80h.onrender.com)
+https://node-assignment-1-f80h.onrender.com
